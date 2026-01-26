@@ -1,0 +1,2 @@
+# minimind-a
+此项目是在26M参数的超小大语言模型MiniMind和MiniMind-V的基础上开发的超小多模态语音大模型MiniMind-A。
