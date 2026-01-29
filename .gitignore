@@ -1,0 +1,25 @@
+model/__pycache__
+out
+website/
+docs-minimind/
+# 适配 minimind 项目的忽略规则
+# 1. 数据集目录
+dataset/
+minimind_dataset/
+# 2. 模型/检查点目录（大体积权重）
+checkpoints/
+model/
+# 3. 输出/评估目录（生成文件）
+out/
+eval_audios/
+# 4. Python 缓存文件（所有项目通用）
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# 5. 日志文件
+*.log
+# 6. 系统临时文件
+*.swp
+*.swo
+.DS_Store
